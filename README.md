@@ -8,4 +8,4 @@ Wir verwenden auch keine Drittanbieter-Tools oder -Dienste, um Informationen üb
 
 Bitte beachten Sie, dass unsere Datenschutzbestimmungen von Zeit zu Zeit aktualisiert werden können. Änderungen an diesen Bestimmungen werden in unserer App angezeigt.
 
-Wenn Sie Fragen oder Bedenken bezüglich unserer Datenschutzbestimmungen haben, wenden Sie sich bitte an uns unter robinfoss.developer@gmail.com
+Wenn Sie Fragen oder Bedenken bezüglich unserer Datenschutzbestimmungen haben, wenden Sie sich bitte an uns unter robinfoss.contact@gmail.com
